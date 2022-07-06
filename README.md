@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **c++**
 
-- 💬 Ask me about **c++ web technology**
+- 💬 Ask me about **c++ and web technology**
 
 - 📫 How to reach me **pranabeshpratiharjgm@gmail.com**
 
